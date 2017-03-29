@@ -1,10 +1,10 @@
-/*General
-*----------------------------------------*/
-/* Very hard reset of browser settings*/
-margin: 0;
-padding: 0;
+
 body {
   font-family: 'Slabo 27px', serif;
   font-family: 'Lora', serif;
-  color:#356
+  color: red;
+  size: 24px;
+}
+h1 {
+  color: #719683;
 }
